@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.redoangecom.dialog.roictintern.redorangeprofile.utils.ProportionalImageView
+        android:layout_width="@dimen/_100dp"
+        android:layout_height="@dimen/_100dp"
+        android:id="@+id/mImageGrid"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:layout_width="@dimen/_100dp"
+        android:layout_height="@dimen/_70dp"
+        android:id="@+id/mNameGrid"
+        android:text="Md. Nahidul Islam Siddique"
+        android:textSize="@dimen/grid_title_size"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:fontFamily="@string/grid_font"
+        android:gravity="top|center_horizontal"/>
+</LinearLayout>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dutche_url">http://bangladesh.nlembassy.org/</string>
+    <string name="dutche_logo">file:///android_asset/clients/dutche.jpg</string>
+
+    <string name="kit_url">http://www.kit.nl/</string>
+    <string name="kit_logo">file:///android_asset/clients/kit.png</string>
+
+    <string name="proofs_url">URL NOT AVAILABLE</string>
+    <string name="proofs_logo">file:///android_asset/clients/proofs.png</string>
+
+    <string name="icco_url">http://www.icco-cooperation.org/nl/</string>
+    <string name="icco_logo">file:///android_asset/clients/icco.png</string>
+
+    <string name="wop_url">URL NOT AVAILABLE</string>
+    <string name="wop_logo">file:///android_asset/clients/wop.png</string>
+
+    <string name="wfp_url">http://www.wfp.org/</string>
+    <string name="wfp_logo">file:///android_asset/clients/wfp.png</string>
+
+    <string name="undp_url">http://www.bd.undp.org/</string>
+    <string name="undp_logo">file:///android_asset/clients/undp.png</string>
+
+    <string name="ucep_url">http://www.ucepbd.org/</string>
+    <string name="ucep_logo">file:///android_asset/clients/ucep.jpg</string>
+
+    <string name="ntr_url">http://www.ntr.nl/</string>
+    <string name="ntr_logo">file:///android_asset/clients/ntr.png</string>
+
+    <string name="ifc_url">http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/home</string>
+    <string name="ifc_logo">file:///android_asset/clients/ifc.jpg</string>
+
+    <string name="snv_url">http://www.snv.org/</string>
+    <string name="snv_logo">file:///android_asset/clients/snv.png</string>
+
+    <string name="ide_url">http://www.ide-bangladesh.org/</string>
+    <string name="ide_logo">file:///android_asset/clients/ide.png</string>
+
+    <string name="fao_url">http://www.fao.org/home/en/</string>
+    <string name="fao_logo">file:///android_asset/clients/fao.png</string>
+
+    <string name="zdf_url">https://www.zdf.de/</string>
+    <string name="zdf_logo">file:///android_asset/clients/zdf.png</string>
+
+    <string name="a2i_url">http://a2i.pmo.gov.bd/</string>
+    <string name="a2i_logo">file:///android_asset/clients/a2i.png</string>
+
+    <string name="oxfam_url">https://www.oxfam.org/en/countries/bangladesh</string>
+    <string name="oxfam_logo">file:///android_asset/clients/oxfam.png</string>
+
+    <string name="nuffic_url">https://www.epnuffic.nl/en</string>
+    <string name="nuffic_logo">file:///android_asset/clients/nuffic.png</string>
+
+    <string name="mottmac_url">https://www.mottmac.com/bangladesh</string>
+    <string name="mottmac_logo">file:///android_asset/clients/mott_macdonald.png</string>
+
+    <string name="max_url">http://www.maxfoundation.org/en/home/</string>
+    <string name="max_logo">file:///android_asset/clients/max.png</string>
+
+    <string name="jpg_school_url">http://www.bracu.ac.bd/academics/institutes-and-schools/jpgsph</string>
+    <string name="jpg_school_logo">file:///android_asset/clients/jpg_school.png</string>
+
+    <string name="image_url">http://imageforchange.org/</string>
+    <string name="image_logo">file:///android_asset/clients/image.png</string>
+
+    <string name="giz_url">https://www.giz.de/en/worldwide/351.html</string>
+    <string name="giz_logo">file:///android_asset/clients/giz.jpg</string>
+
+    <string name="german_url">https://www.giz.de/en/html/index.html</string>
+    <string name="german_logo">file:///android_asset/clients/german_cooperation.png</string>
+
+    <string name="bandhu_url">http://www.bandhu-bd.org/</string>
+    <string name="bandhu_logo">file:///android_asset/clients/bandhu.jpg</string>
+
+    <string name="blast_url">http://www.blast.org.bd/</string>
+    <string name="blast_logo">file:///android_asset/clients/blast.jpg</string>
+
+    <string name="wecan_url">http://www.wecan-bd.org/</string>
+    <string name="wecan_logo">file:///android_asset/clients/wecan.png</string>
+
+    <string name="uddp_url">URL NOT AVAILABLE</string>
+    <string name="uddp_logo">file:///android_asset/clients/uddp.png</string>
+
+    <string name="tno_url">https://www.tno.nl/nl/aandachtsgebieden/gezond-leven/prevention-work-health/innovaties-voor-gezond-en-veilig-werken/tno-helpt-textielindustrie-bangladesh-schoner-produceren/</string>
+    <string name="tno_logo">file:///android_asset/clients/tno.jpg</string>
+
+    <string name="terredes_url">https://www.terredeshommes.nl/en</string>
+    <string name="terredes_logo">file:///android_asset/clients/terre_des_hommes.jpg</string>
+
+    <string name="supra_url">http://www.supro.org/</string>
+    <string name="supra_logo">file:///android_asset/clients/supra.png</string>
+
+    <string name="simavi_url">https://simavi.org/</string>
+    <string name="simavi_logo">file:///android_asset/clients/simavi.png</string>
+
+    <string name="sanmark_url">http://www.icco-cooperation.org/en/projects/sanmark-city</string>
+    <string name="sanmark_logo">file:///android_asset/clients/sanmark.jpg</string>
+
+    <string name="plan_url">https://plan-international.org/bangladesh</string>
+    <string name="plan_logo">file:///android_asset/clients/plan.png</string>
+
+    <string name="pact_url">http://www.textilepact.net/</string>
+    <string name="pact_logo">file:///android_asset/clients/pact.png</string>
+</resources>

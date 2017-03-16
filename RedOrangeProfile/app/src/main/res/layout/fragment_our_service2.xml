@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/_70dp"
+        android:id="@+id/serviceHeader"
+        android:text="@string/service"
+        android:textSize="@dimen/textLarge"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:background="@color/cardTitle_bg"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/srvcPgrContainer">
+
+        <android.support.v4.view.ViewPager
+            android:layout_width="@dimen/width"
+            android:layout_height="match_parent"
+            android:id="@+id/srvcPgr"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="@dimen/_15dp"
+            android:layout_marginBottom="@dimen/_15dp"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

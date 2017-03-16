@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Branding-->
+
+    <string name="uddpGr_hdr">Branding For UDDP</string>
+    <string name="uddpGr_desc">For DWASA and Vites Evides International we helped branding their project UDDP (Urban Dredging Demonstration Project) by developing and designing logos, posters and flyers.
+DWASA is the utility in charge of water and sanitation in Dhaka. Vites Evides International, powered by the largest water companies of the Netherlands, supports local water companies in developing and transition countries
+    </string>
+
+    <string name="iccoGr_hdr">Branding For ICCO</string>
+    <string name="iccoGr_desc">For ICCO Cooperation we helped branding SanMark CITY by developing and designing the logo plus a complete brand package of folders, pens, notebooks, style sheets, business cards, letterheads, power point templates as well as banners, festoons, and invitation cards.
+SanMark CITY explores the critical gap that exists in introducing, adapting, and sustaining affordable on-site sanitation technologies on a large scale. SanMark City has been implemented by ICCO Cooperation, together with its partners iDE and DSK, and funded by the Bill and Melinda Gates Foundation. ICCO Cooperation is a Netherlands based global, non-governmental organization working towards a world in which people can live in dignity and well-being, a world without poverty and injustice.
+    </string>
+
+    <!--Production-->
+
+    <string name="gizGr_hdr">Production For GIZ</string>
+    <string name="gizGr_desc">For GIZ we produce, design and print quarterly magazines in the framework of GIZ’s Rule of Law program.
+GIZ (“German Corporation for International Cooperation”) is a company owned by the German Federal Government that specializes in international development and operates in more than 130 countries.
+    </string>
+
+    <string name="ucepGr_hdr">Production For UCEP</string>
+    <string name="ucepGr_desc">For UCEP Bangladesh we produced, developed, designed and printed one of their promotional brochures.
+UCEP Bangladesh (Underprivileged Children’s Educational Programs Bangladesh) aims to uplift the socio-economic conditions of underprivileged communities through help to learn skills to earn.
+    </string>
+
+    <!--Creative Presentation -->
+
+    <string name="gizCp_hdr">Creative Presentation For GIZ</string>
+    <string name="gizCp_desc">For GIZ we developed and produced a book in the framework of GIZ’s project “Fostering Traceability in the textile and Garment Supply Chain in Bangladesh”.
+GIZ (German Corporation for International Cooperation) is a company owned by the German Federal Government that specializes in international development and operates in more than 130 countries.
+    </string>
+
+    <string name="faoGr_hdr">Creative Presentation For FAO</string>
+    <string name="faoGr_desc">For FAO we designed and produced brochures, CD-covers and Eid and New Year’s greeting cards plus the report “Achieving Food and Nutrition Security in the Chittagong Hill Tracks”.
+FAO is the UN agency that leads international efforts to defeat hunger, serving both developed and developing countries.
+    </string>
+
+    <!-- Printing-->
+
+    <string name="ideGr_hdr"></string>
+    <string name="ideGr_desc">For iDE we developed designed and printed branding materials, like folders, flyers, pens, and notebooks.
+iDE creates income and livelihood opportunities for poor, rural households.
+iDE (International Development Enterprises) is a worldwide NGO promoting a business approach to increasing income and creating livelihood opportunities for poor rural households.
+    </string>
+
+</resources>

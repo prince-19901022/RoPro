@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="horizontal_separator_color">#000000</color>
+    <color name="vertical_separator_color">#000000</color>
+
+    <color name="navigation_backgrond">#21252A</color>
+    <color name="list_seoarator">#FF4500</color>
+    <color name="option_title_color">#6A798E</color>
+
+    <color name="btn_pressed">#029DDB</color>
+    <color name="btn_idle">#60029DDB</color>
+
+    <color name="orange">#f39323</color>
+    <color name="cardTitle_bg">#FF9933</color>
+    <color name="carousel_bg">#2c2b2b</color>
+    <color name="carousel_item_bg">#eeeeee</color>
+
+</resources>

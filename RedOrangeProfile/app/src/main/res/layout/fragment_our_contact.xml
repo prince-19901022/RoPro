@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="3"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="@dimen/width"
+        android:layout_height="0dp"
+        android:layout_weight="0.4"
+        android:id="@+id/contactHeader"
+        android:text="Contact"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="@color/cardTitle_bg"
+        android:textSize="@dimen/textLarge"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="@dimen/marginTop"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/ll1"
+        android:layout_weight="1.3"
+        android:layout_marginLeft="@dimen/_8dp"
+        android:layout_marginRight="@dimen/_8dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/border_2_way_top_bottom"
+        android:elevation="@dimen/_12dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/countryame"
+            android:text="Bangladesh"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:textSize="@dimen/textLarge"
+            android:textStyle="bold"
+            android:layout_marginLeft="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/homeBng"
+            android:text="@string/house1"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/textSizeNormal"
+            android:gravity="bottom"
+            android:layout_alignLeft="@id/countryame"
+            android:layout_below="@+id/countryame"
+            android:layout_marginLeft="@dimen/_8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/street"
+            android:text="@string/street1"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/textSizeNormal"
+            android:paddingTop="@dimen/_8dp"
+            android:layout_below="@id/homeBng"
+            android:layout_alignLeft="@+id/homeBng"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/code"
+            android:text="@string/code1"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/textSizeNormal"
+            android:paddingTop="@dimen/_8dp"
+            android:layout_below="@+id/street"
+            android:layout_alignLeft = "@+id/street"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mailAdressBng"
+            android:text="@string/email1"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/textSizeNormal"
+            android:paddingTop="@dimen/_8dp"
+            android:paddingBottom="@dimen/_8dp"
+            android:layout_below="@+id/code"
+            android:layout_alignLeft="@+id/code"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phnBng"
+            android:text="@string/phn1"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/textSizeNormal"
+            android:layout_below="@+id/mailAdressBng"
+            android:layout_alignLeft="@+id/code"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/ll2"
+        android:layout_weight="1.3"
+        android:layout_marginLeft="@dimen/_8dp"
+        android:layout_marginRight="@dimen/_8dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border_2_way_top_bottom"
+        android:elevation="@dimen/_12dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/country2"
+            android:text="@string/cntry2"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="@dimen/textLarge"
+            android:layout_marginLeft="15dp"
+            android:gravity="center"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/house2"
+            android:text="@string/house2"
+            android:textSize="@dimen/textSizeNormal"
+            android:textColor="@android:color/black"
+            android:layout_below="@+id/country2"
+            android:layout_marginLeft="@dimen/_8dp"
+            android:layout_alignLeft="@+id/country2"
+            android:paddingTop="@dimen/_8dp"
+            android:paddingBottom="@dimen/_8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/street2"
+            android:text="@string/street2"
+            android:textSize="@dimen/textSizeNormal"
+            android:textColor="@android:color/black"
+            android:layout_below="@id/house2"
+            android:layout_alignLeft="@+id/house2"
+            android:paddingBottom="@dimen/_8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/code2"
+            android:text="@string/code2"
+            android:textSize="@dimen/textSizeNormal"
+            android:textColor="@android:color/black"
+            android:layout_below="@id/street2"
+            android:layout_alignLeft="@+id/street2"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mailAdress2"
+            android:text="@string/email2"
+            android:textSize="@dimen/textSizeNormal"
+            android:textColor="@android:color/black"
+            android:layout_below="@+id/code2"
+            android:layout_alignLeft="@+id/code2"
+            android:paddingTop="@dimen/_8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phn2"
+            android:text="@string/phn2"
+            android:textSize="@dimen/textSizeNormal"
+            android:textColor="@android:color/black"
+            android:gravity="bottom"
+            android:layout_below="@+id/mailAdress2"
+            android:layout_alignLeft="@+id/mailAdress2"
+            android:paddingTop="@dimen/_8dp"/>
+    </RelativeLayout>
+
+</LinearLayout>

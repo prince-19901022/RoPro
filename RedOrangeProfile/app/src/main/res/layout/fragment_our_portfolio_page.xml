@@ -1,0 +1,74 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.redoangecom.dialog.roictintern.redorangeprofile.fragments.OurPortfolioPage">
+
+    <com.redoangecom.dialog.roictintern.redorangeprofile.utils.ProportionalImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/width"
+        android:id="@+id/banner"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/portfolio_header"
+                android:text="@string/prjDsc"
+                android:textSize="@dimen/textLarge"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                android:layout_marginTop="@dimen/_12dp"
+                android:layout_marginLeft="@dimen/_12dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/portfolio_desc"
+                android:text="@string/image_body"
+                android:textSize="@dimen/textSizeNormal"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="@dimen/_12dp"
+                android:layout_marginLeft="@dimen/_12dp"
+                android:layout_marginRight="@dimen/_12dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/visitLink"
+                    android:text="VISIT WEBSITE"
+                    android:layout_marginRight="@dimen/_8dp"
+                    android:textColor="@color/orange"
+                    android:textSize="@dimen/textSizeNormal"
+                    android:background="@android:color/transparent"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/play"
+                    android:text="Play"
+                    android:layout_marginRight="@dimen/_8dp"
+                    android:layout_alignParentRight="true"
+                    android:textColor="@color/orange"
+                    android:textSize="@dimen/textSizeNormal"
+                    android:background="@android:color/transparent"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

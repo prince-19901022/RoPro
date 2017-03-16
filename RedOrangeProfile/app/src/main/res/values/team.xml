@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--1-->
+    <string name="arnob">Arnob Chakrabarty</string>
+    <string name="arnob_post">Managing Director</string>
+
+    <string name="arnob_profile">
+        Arnob Chakrabarty is a multi-skilled media professional
+        with over 15 years of experience in television and print.
+        He has worked both in the Netherlands and Bangladesh.
+        Arnob made over 300 documentaries for Dutch public television.
+        He has also produced educational programmes with UNICEF-Netherlands,
+        SOS-Kinderdorp, World Press Photo and Stichting Kinderpostzegels.
+    </string>
+                      <!--2-->
+    <string name="geert">Geert van Asbeck</string>
+    <string name="geert_post">Executive Director</string>
+    <string name="geert_profile">Geert van Asbeck is a devoted organizer.
+        Geert is founder of the Kilimanjaro Film Institute in Tanzania and (co-) initiator/coordinator of international media projects like a children\'s magazine in Senegal, a children\'s community radio station in Indonesia, a worldwide photo project for homeless children and a MTV-series about children\'s rights. Geert has been an independent communication and media advisor and a journalist in the Netherlands.
+    </string>
+                      <!--3-->
+    <string name="wiznand">Wijnand van Velzen</string>
+    <string name="wiznand_post">Head of Operations - Netherlands</string>
+    <string name="wiznand_profile">
+        Wijnand van Velzen is an experienced media training professional.
+        For more than 10 years he was working for the Media Academy in the Netherlands,
+        the last five years as head of Journalism Training and dean of the Master program. Recently,
+        as an academic director of the Erasmus Academy Rotterdam he was responsible for the design,
+        policy, quality and development of the Post Grad Master in Broadcast Journalism and Cross
+        Media Communication commissioned by Pathshala South Asian Media Institute in Dhaka.
+    </string>
+                     <!--4-->
+    <string name="shafi">Ahmed Shafi Chaudhury</string>
+    <string name="shafi_post">Head of Operations</string>
+    <string name="shafi_profile">
+        Ahmed Shafi Chaudhury is a natural-born manager.
+        He has 12 years of experience in marketing,
+        communications, client services and finance
+        and operations. He is a true professional,
+        who also has a sharp sense of art and design.
+        He is a passionate photographer and has worked as a freelancer for some time
+    </string>
+
+                   <!--5-->
+    <string name="nakib">Nakib Rajib Ahmed</string>
+    <string name="nakib_post">Program Adviser</string>
+    <string name="nakib_profile">
+        Nakib Rajib Ahmed is a professional with multi-disciplinary academic
+        and professional skills with more than a decade of working experience
+        in development field mostly in development project management. He has
+        a vast experience in Development Communication especially communication
+        facilitating social development. He has Masters Degree in Botany (M.Sc.)
+        and International Relations (M.A.). Mr. Nakib has diversified working
+        experience in Anti-corruption Research, Public Health and Environmental
+        Governance, Migration, Violence against Women and Community Development.
+        During his professional career he worked with the US Peace Corps, SMEC,
+        TIB, BRAC University, North South University and BRAC (Migration Programme and
+        Community Empowerment Programme) in various capacities. Mr. Nakib was awarded with
+        the JDS (Japan Development Scholarship) fellowship in 2002 for his M.A.Degree in
+        International Relations from Waseda University, Japan
+    </string>
+    <!--6-->
+    <string name="irene">Irene Bartelds</string>
+    <string name="irene_post">Communications Advisor</string>
+    <string name="irene_profile">
+        Irene Bartelds is an experienced media professional with proven analytical and
+        editorial abilities. For RedOrange, she develops story lines and scripts and
+        supports project management. Irene was a financial reporter for Dow Jones
+        Newswires in Amsterdam, where she also launched an online magazine looking after personal finance.
+    </string>
+    <!--7-->
+    <string name="shahidul">K.M.Shahidul Islam</string>
+    <string name="shahidul_post">Head –Finance and Accounts</string>
+    <string name="shahidul_profile">
+        With the pleasant 18 years of accounting experience, Mr. Shahid has an excellent understanding
+        of the latest accounting and financial concepts and possesses the ability to deal with ambiguity
+        and changing business requirements. He brings in several years of experience in managing Finance
+        and Accounts of different organisations, both corporate and NGO. He is someone who will always
+        provide the required level of leadership and guidance needed to ensure that best practice is
+        always followed. His greatest strengths are his ability to meet all financial reporting deadlines
+        and to ensure the highest levels of financial integrity in any management reporting.
+    </string>
+    <!--8-->
+    <string name="zimran">M M Zimran Khan</string>
+    <string name="zimran_post">Manager - Client Services</string>
+    <string name="zimranl_profile">
+        Zimran loves to work with clients on creating innovative solutions and solving challenging problems.
+        His career has spanned a unique blend of engineering, research, strategy and sales leadership across
+        a range of domains, teams, projects and countries. With extensive experience as a business developer
+        in global markets, Zimran has led communications, partnerships, marketing and operations. His interests
+        are emerging technology and cultural transformation for successful utilization of new business and tech processes.
+    </string>
+    <!--9-->
+    <string name="haider">Mahmud Haider</string>
+    <string name="haider_post">Art Director</string>
+    <string name="haider_profile">
+        Haider brings an excellent work experience as creative and graphic
+        designer for various national and international organizations to RedOrange.
+        His dynamic designs when developing content for communication, audio-visuals,
+        websites, and social media have been among the pillars on which RedOrange sees
+        itself standing firm in future
+    </string>
+
+    <!--10-->
+    <string name="apu">Apu Kumar Ghose</string>
+    <string name="apu_post">ICT Technical Account Manager</string>
+    <string name="apu_profile">
+        Haider brings an excellent work experience as creative and graphic
+        designer for various national and international organizations to RedOrange.
+        His dynamic designs when developing content for communication, audio-visuals,
+        websites, and social media have been among the pillars on which RedOrange sees
+        itself standing firm in future
+    </string>
+    <!--11-->
+    <string name="jewel">Enayet Hossain</string>
+    <string name="jewel_post">Web Programmer</string>
+    <string name="jewel_profile">
+        He is an experienced web programmer with proven analytical and technical abilities.
+        He has successfully designed, developed, and supported live use applications.
+        He strives for continued excellence and provides exceptional contributions to customer service for all clients.
+        Developing website is his passion. The languages and tools that he likes are PHP, jQuery, mySql, Codeigniter,
+        WordPress, Opencart, Joomla.
+    </string>
+    <!--12-->
+    <string name="nico">Nico den Besten</string>
+    <string name="nico_post">Photographer/Graphic Designer</string>
+    <string name="nico_profile">
+        Nico has a wide view with an eye for detail.
+        He is trained as a graphic designer and has experience in various graphic disciplines.
+        He has done several productions IUCN and the city of Amersfoort. He has worked at Market
+        Response and Amfors in Amersfoort.
+    </string>
+
+    <!--13-->
+    <string name="ratan">Monir Ahamed Ratan</string>
+    <string name="ratan_post">Desktop and Network Support Engineer</string>
+    <string name="ratan_profile">
+        Dedicated and resourceful computer professional (Apple Mac and Windows PC)
+        with 12+ years of extensive experience in installing, repairing and maintaining a
+        diverse range of PC hardware, software and peripherals such as, Apple Mac, Dell, HP
+        and Toshiba, Hard drives, monitors, printers, scanners and Audio-video equipment.
+        professional experience on video editing panel and broadcast studio setup for private
+        television channel, university and media house in Dhaka city.
+    </string>
+
+    <!--14-->
+    <string name="lucky">Lucky Sutradhar</string>
+    <string name="lucky_post">Software Engineer</string>
+    <string name="lucky_profile">
+        Lucky is a passionate web application developer.
+        As an allrounder she enjoys it most to be involved throughout the development process,
+        from scratch to launch. Starting with an idea, she writes code, identifies opportunities
+        for improvement of the program and oversees all aspects up to the launch. She has been
+        working with multiple programming languages and operating systems for more than 4 years.
+    </string>
+    <!--15-->
+    <string name="ferdous">Md. Ferdous</string>
+    <string name="ferdous_post">Web Developer</string>
+    <string name="ferdous_profile">
+        Ferdous is a senior full stack WordPress developer and designer.
+        He has more than 6 years’ experience developing websites.
+        He completed B.sc and M.sc degree in Computer Science.
+        He worked in Brainverb and Bytepattern software firms.
+        In the past three years he worked in an American software company
+        called Corus Technology in South Carolina. He has great experience in
+        HTML5, CSS3, JavaScript, PHP, jQuery, WordPress, Joomla, Magento, CS-Cart,
+        Classified, Open Cart, Photoshop, Adobe Reader etc.
+    </string>
+
+    <!--16-->
+    <string name="neela">Zakia Haq Neela</string>
+    <string name="neela_post">Communications Executive</string>
+    <string name="neela_profile">
+        A highly motivated and enthusiastic individual. Having a background of literature, theatre and music, Neela is quite competent in the understanding of people, has in depth knowledge about cultural influences and its effect on social circumstances. She has versatile experiences of working in creative media, research, interpretation, creative writing and performing arts as well which have increased her adaptability in communicating. Neela believes that communication can be one of the most effective tools to achieve success in present world.
+    </string>
+
+    <!--17-->
+    <string name="prince">Md. Nahidul Islam Siddique</string>
+    <string name="prince_post">Junior Programmer</string>
+    <string name="prince_profile">
+        Prince is an android programmer. He is a graduate from Gono University in Computer Science and Engineering.
+        He likes to code using c, c++, prolog and java. Learning and exploring programming language and developing
+        application are his passion.
+    </string>
+
+    <!--18-->
+    <string name="pervez">Masud Pervez</string>
+    <string name="pervez_post">Coordinator</string>
+    <string name="pervez_profile">
+        Pervez is the glue that keeps it together at RedOrange.
+        With diplomas in video camera operations and graphic design,
+        and a keen eye for details, he makes sure that operations run
+        smoothly while ensuring that all the paperwork is complete.
+        Pervez pulls it off with an enviable ease.
+    </string>
+    <!--19-->
+    <string name="tania">Sobnom Tania</string>
+    <string name="tania_post">Coordinator-Management Secretariat</string>
+    <string name="tania_profile">
+        Sobnom is an organized and competent professional with remarkable communication skills.
+        She has an administrative background and is skilled with dealing with people and carrying
+        out administrative and managerial duties with accuracy and speed. Managing or coordinate
+        work plans, formulating recommendations, working independently, understanding and following
+        oral and written instructions, establishing and maintain cooperative working relationships
+        are among her best skills. In RedOrange she coordinates the senior management team and works
+        as a bridge to keep them synchronized with the operational activities and the entire office.
+    </string>
+
+    <!--20-->
+    <string name="mazharul">Mazharul Islam</string>
+    <string name="mazharul_post">Admin Executive</string>
+    <string name="mazharul_profile">
+        A cool and self-confident guy with a predetermined goal to fulfill his objective.
+        He believes in hard work and sincerity which should be backed by good character and
+        discipline which are necessary for anyone to reach goals.
+    </string>
+
+    <!--21-->
+    <string name="arif">Md. Areful Islam Arif</string>
+    <string name="arif_post">Associate Coordinator</string>
+    <string name="arif_profile">
+        Has diverse experience in development sector particularly in Campaign and Advocacy,
+        Communication and Networking Management, Capacity Building and Project Cycle Management
+        relating to governance issue. As young professional he wants to build up his career as
+        dedicated human rights activists. He believed regularity, creativity, sincerity, skill
+        and performance are the criteria for appraisal and recognition
+    </string>
+    <!--22-->
+    <string name="sabrina">Sabrina Sharmin</string>
+    <string name="sabrina_post">Manager - Finance and HR</string>
+    <string name="sabrina_profile">
+        Serious stuff. Knows what she is talking about.
+        Combines high volumes of work with high standards for
+        quality and accuracy. Has 7 years of experience in finance.
+        Has worked for Accounting firms and Government programs in London,
+        United Kingdom.
+    </string>
+
+    <!--23-->
+    <string name="noman">Noman Robin</string>
+    <string name="noman_post">Executive Producer</string>
+    <string name="noman_profile">
+        Noman Robin is a multi-skilled media professional with over 10 years of experience in television and feature films. Common Gender-The Film (2012), scripted and directed by him, inspired the process of officially indicating transgender people as such in their national identity cards and passports as of 2013. The film was screened at the 70th Golden Globe Awards and the 32nd INPUT (television for public interest) conference. It was also screened and archived by British Columbia University, Vancouver, Canada. Noman has made historical documentary films for the governments of Portugal and Bangladesh. He is currently taking training in making documentary films for the Netherlands Public Television under the leadership of Arnob Chakrabarty.
+    </string>
+
+    <!--24-->
+    <string name="shirin">Shirin Akter</string>
+    <string name="shirin_post">Executive - Finance and Accounts</string>
+    <string name="shirin_profile">
+        Fresh out of her Chartered Accountancy articleship,
+        Shirin began working for RedOrange finance.
+        With a keen eye for detail and proven ability
+        to prioritise her tasks, Shirin Akter acts as an
+        effective balancing factor within RedOrange as well as
+        the project ensuring that due process is followed at every step.
+    </string>
+    <!--25-->
+    <string name="shariful">Md. Shariful Islam</string>
+    <string name="shariful_post">Manager- Event and Campaign</string>
+    <string name="shariful_profile">
+        A simple and cool guy with a wide range of experience mainly in campaign,
+        communication and networking, capacity building and project operations.
+        Research, Governance, WASH and Human Rights are the prime field of his experience.
+        He loves to blend the experience of development sector with the corporate.
+    </string>
+    <!--26-->
+    <string name="anika">Anika Binte Habib</string>
+    <string name="anika_post">Communications Executive</string>
+    <string name="anika_profile">
+        Anika is one of the young team members that Red Orange takes pride in.
+        A computer science graduate from BRAC University, Anika took no time in
+        moulding herself into an effective communications executive which only
+        indicates her versatility. She is strong in bridging gaps through education and interpersonal relations.
+    </string>
+    <!--27-->
+    <string name="suchi">Mahamuda Rahman</string>
+    <string name="suchi_post">Creative Manager</string>
+    <string name="suchi_profile">
+        Mahamuda Rahman believes in creating communications that tie messages with creativity.
+        Seasoned in advertising and media, she has learnt to be ambidextrous in creative ideation,
+        campaign design and copy writing. Communications is not just a profession for her; it is a passion.
+    </string>
+    <!--28-->
+    <string name="ronni">Mazhar Ronni</string>
+    <string name="ronni_post">Videographer</string>
+    <string name="ronni_profile">
+        He is an extra ordinary video editor, colorist, post production supervisor.
+        He has massive experience in talk shows, news, musical shows, drama series,
+        TV commercials, short films, documentary films, feature films, music videos.
+    </string>
+    <!--29-->
+    <string name="mitali">Mitali Das</string>
+    <string name="mitali_post">Communication Executive</string>
+    <string name="mitali_profile">
+        Mitali Das is a professional and hardworking individual.
+        She believes in achieving excellence through continuous
+        dedication towards her goal. She has experience of more than
+        five years in TV and Radio media as a senior program producer and
+        journalist. She is a social entrepreneur who has more than four years
+        experience in working with various local and international NGOs.
+        She is very enthusiastic when it comes to work on field at community level,
+        organizing events and campaigns. She is a versatile individual and her areas
+        of expertise are making documentary, editing, shooting, script and content writing,
+        researching and creative concept developing. In Red Orange she is determined to reach
+        out the target group to create positive impact by utilizing her skills and passion.
+    </string>
+    <!--30-->
+    <string name="syed">Syed Wadud</string>
+    <string name="syed_post">Content Writer</string>
+    <string name="syed_profile">
+        Syed is passionately curious about learning and experiencing life through a philosophical lens.
+        Besides working as a researcher and web content developer for RO, Syed is also a musician and a
+        meritorious scholar at a prominent university of Bangladesh, currently obtaining multiple degrees
+        in Anthropology, Media and Communications and Global Studies and Governance.
+    </string>
+
+    <!--31-->
+    <string name="jibon">Jibon Das</string>
+    <string name="jibon_post">Animator</string>
+    <string name="jibon_profile">
+        Animator at RO. Educated in GA and 3D Arts.
+        Jibon belongs to the world of creativity, skilled in vector arts,
+        image manipulation, and 2d and 3d modeling. He is good at what he does
+    </string>
+
+    <!--32-->
+    <string name="sabuj">Sabuj Miah</string>
+    <string name="sabuj_post">Communications Executive</string>
+    <string name="sabuj_profile">
+        He is an extra ordinary video editor, colorist, post production supervisor.
+        He has massive experience in talk shows, news, musical shows, drama series,
+        TV commercials, short films, documentary films, feature films, music videos.
+    </string>
+    <!--33-->
+    <string name="hridoy">Mamun Alam Hridoy</string>
+    <string name="hridoy_post">Support Staff</string>
+    <string name="hridoy_profile">
+        Excellent cook. Serves Niramish with Dhal everyday. Makes sure that our crews do not starve on the set.
+    </string>
+    <!--34-->
+    <string name="ripon">Ripon Das</string>
+    <string name="ripon_post">Support Staff</string>
+    <string name="ripon_profile">
+       Excellent office assistant. Serves tea, coffee, snacks. Makes sure that our crews get refreshment when they require.
+    </string>
+    <!--35-->
+    <string name="ruhul">Ruhul Amin</string>
+    <string name="ruhul_post">Driver</string>
+    <string name="ruhul_profile">
+      Accident free, years of experience on the busy roads of Dhaka, makes sure that our crews arrive on time.
+    </string>
+</resources>

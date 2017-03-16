@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Social Media-->
+
+    <string name="imageCw_hdr">Social Media</string>
+    <string name="imageCw_desc">For IMAGE we organize social media campaigns and sensitize hundred thousands of Bangladeshi with appealing and mind changing content about the situation of married children in Bangladesh
+IMAGE (Initiatives for Married Adolescent Girl’s Empowerment) is an awareness raising campaign for adolescent married girls, funded by the Embassy of the Kingdom of the Netherlands in Bangladesh and developed and implemented by RedOrange and the Netherlands based Terre des Hommes and TNO.
+    </string>
+
+    <!--Books-->
+
+    <string name="sapCw_hdr">Books</string>
+    <string name="sapCw_desc">For SAP-Bangladesh and Plan Bangladesh we developed and produced a photo book in the framework of their “Safe Schools” project in the coastal areas of Bangladesh.
+SAP-Bangladesh (South Asia Partnership -Bangladesh) is a national NGO devoted to promote the socio-economic condition of the poorer section of the community in Bangladesh. Plan Bangladesh is part of Plan International, an international organisation for development, which works in 51 countries across Africa, the Americas, and Asia to promote the safeguarding of children.
+    </string>
+
+
+</resources>

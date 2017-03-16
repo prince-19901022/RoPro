@@ -1,0 +1,56 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/carousel_bg"
+    tools:context="com.redoangecom.dialog.roictintern.redorangeprofile.fragments.PortfolioFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pagerContainer"
+        android:layout_above="@+id/btnPanel">
+
+        <android.support.v4.view.ViewPager
+            android:layout_width="@dimen/width"
+            android:layout_height="match_parent"
+            android:id="@+id/portfolio_pager"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="@dimen/_15dp"
+            android:layout_marginTop="@dimen/_15dp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/btnPanel"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:background="@drawable/border_2_way_top_bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/_5dp">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/btn_consultancy"
+            android:layout_weight="0.5"
+            android:text="Consultancy"
+            android:textColor="@color/cardTitle_bg"
+            android:background="@drawable/one_way_right"
+            android:padding="@dimen/_8dp"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/btn_production"
+            android:layout_weight="0.5"
+            android:text="Production"
+            android:textColor="@color/cardTitle_bg"
+            android:background="@color/navigation_backgrond"
+            android:padding="@dimen/_8dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--General Data-->
+    <string name="graphics_title">Production: Graphic Design</string>
+    <string name="graphics_gen_text"><![CDATA[<p><b>Production: Graphic Design</b></p>
+        <p>The graphic design teams of RedOrange will help you with a wide range of tailor made services: from branding to production, from creative presentations to printing. Our creatives are here for you, to brighten lives with new ideas and beautiful designs.</p>
+    ]]></string>
+
+    <string name="film_title">Production: Films and Animations</string>
+    <string name="film_gen_text"><![CDATA[<p><b>Production: Films and Animations</b></p>
+        <p>The film and animation teams of RedOrange will help you with a wide range of tailor made services: from documentaries to promotional films, from animations to TV-commercials. Our creatives are here for you, to brighten lives with new ideas and convincing films.</p>
+    ]]></string>
+
+    <string name="contentWriting_title">Production: Content Writing</string>
+    <string name="content_writing_gen_text"><![CDATA[<p><b>Production: Content Writing</b></p>
+        <p>The content writers of RedOrange will help you with a wide range of tailor made services: from content writing for your social media to content writing for your printed photo books, from content writing for your websites to content writing for your flyers and brochures. Our content writers are here for you, to brighten lives with new ideas and compelling stories.</p>
+    ]]></string>
+
+    <string name="ict_title">Production: Information Technology</string>
+    <string name="ict_gen_text"><![CDATA[<p><b>Production: Information Technology</b></p>
+        <p>The IT teams of RedOrange will help you with a wide range of tailor made services: from website development to mobile software applications, from e-commerce to content management. Our IT experts are here for you, to brighten lives with new ideas and effective IT solutions.</p>
+    ]]></string>
+
+    <string name="ritu_gen_text"><![CDATA[<p>Ritu is a Bangladeshi word for ‘menstruation cycle’. RITU is the name of our project that tries to improve the menstrual hygiene situation for adolescent girls in Bangladesh; since 2016.</p>
+    <p><b><u>Aim:</u></b> The project is aimed at achieving increased Menstrual Hygiene Management (MHM) awareness; an improved supportive environment to MHM; and improved access to MHM services.</p>]]>
+    </string>
+    <string name="amar_gen_text"><![CDATA[<p>Where does my taxpayers’ money go? Campaign on budget accountability and transparency in Bangladesh. 2015</p>
+    <p><u>Aim:</u> To help people better understand government budgeting and government spending and to convince (local) governments to spend taxpayers’ money more transparent and responsively.</p>]]></string>
+    <string name="img_gen_text"><![CDATA[<p>Initiatives for Married Adolescent Girl’s Empowerment; since 2014.</p>
+    <p><u>Aim:</u> IMAGE focuses on the Sexual and Reproductive Health and Rights (SRHR) of married children, improving the interventions and raising awareness. So that early married girls have a life with dignity realizing their full rights and potentials. (Bangladesh has one of the world’s highest rates of child marriage.)</p>]]>
+    </string>
+    <string name="sn_gen_text"><![CDATA[<p>Online knowledge platform in Bangladesh focusing on Sexual and Reproductive Health and Rights (SRHR); since 2014.</p>
+    <p><b><u>Share-Net Bangladesh aims</u></b> to contribute to policy and program development in the field of SRHR. It brings together the dynamic community of practice (researchers, practitioners, government officials, legal experts) to engage with one another to find SRHR-solutions.</p>]]>
+    </string>
+
+    
+    <!--consultancy-->
+    
+    <string name="amartaka_hdr">AMAR TAKA</string>
+    <string name="amartaka_body">
+        <![CDATA[<p>Where does my taxpayers’ money go? Campaign on budget accountability and transparency in Bangladesh. 2015</p>
+
+<p><b><u>Aim:</b></u> To help people better understand government budgeting and government spending and to convince (local) governments to spend taxpayers’ money more transparent and responsively.</p>
+
+<p><b><u>Co-created by</b></u> RedOrange and SUPRO (Campaign for Good Governance), a national network of grassroots NGOs in Bangladesh. Funded by Oxfam Novib Bangladesh.</p>
+
+<p><b><u>RedOrange in AmarTaka:</b></u><br/>
+  –    Jointly responsible for the design and implementation of the campaign<br/>
+  –    Research and data collecting<br/>
+  –    Website (develop, design, content, maintenance)<br/>
+  –    Animation films<br/></p>]]>
+
+    </string>
+
+    <string name="amartaka_site"> http://amartaka.org/</string>
+    <string name="amartaka_video">https://www.youtube.com/embed/1drfUSzTIOo</string>
+    
+    <string name="image_hdr">IMAGE</string>
+    <string name="image_body"><![CDATA[<p>Initiatives for Married Adolescent Girl’s Empowerment; since 2014.</p>
+<p><b><u>Aim:</u></b> IMAGE focuses on the Sexual and Reproductive Health and Rights (SRHR) of married children, improving the interventions and raising awareness. So that early married girls have a life with dignity realizing their full rights and potentials. (Bangladesh has one of the world’s highest rates of child marriage.)</p>
+<p><b><u>Co-created by</u></b> RedOrange and Terre des Hommes Netherlands. In collaboration with SKS Foundation, Terre des hommes Foundation and Pollisree. And funded by The Embassy of the Kingdom of the Netherlands.</p>
+<p><b><u>RedOrange in IMAGE:</u></b><br/>
+– Jointly responsible for the design and implementation of the project <br>
+– Behavior change campaigns<br>
+– Research<br>
+– Communication and campaign material<br>
+– Online knowledge platform<br>
+– Advocacy and awareness through seminars, round tables<br>
+– Training and capacity building of project staff and journalists<br>
+– Social Media campaign<br>
+– Media impact monitoring<br>
+</p>]]></string>
+    <string name="image_site">http://imageforchange.org/</string>
+    <string name="image_video">https://player.vimeo.com/video/187129833</string>
+
+    <string name="ritu_hdr">RITU</string>
+    <string name="ritu_body"><![CDATA[<p>Ritu is a Bangladeshi word for ‘menstruation cycle’. RITU is the name of our project that tries to improve the menstrual hygiene situation for adolescent girls in Bangladesh; since 2016.</p>
+<p><b><u>Aim:</u></b> The project is aimed at achieving increased Menstrual Hygiene Management (MHM) awareness; an improved supportive environment to MHM; and improved access to MHM services.  As strategic and communication partner RedOrange is creating awareness on MHM issues both at community level (project district) and at national level.</p>
+<p><b><u>Co-created</u></b> by RedOrange and the Dutch based international organisations Simavi and TNO, in close collaboration with the Bangladeshi NGOs DORP and BNPS.  And funded by the Embassy of the Kingdom of the Netherlands.</p>
+<p><b><u>RedOrange in RITU:</u></b><br/>
+– Jointly responsible for design and implementation of the project<br/>
+– Media and communication strategy<br/>
+– Mass media campaigns<br/>
+– Social media campaigns<br/>
+– School based awareness campaigns<br/>
+– Knowledge sharing platform<br/>
+– Engaging journalists on MHM issues</p>]]>
+</string>
+
+    <string name="sharenet_hdr">SHARE-NET BANGLADESH</string>
+    <string name="sharenet_body"><![CDATA[<p>Online knowledge platform in Bangladesh focusing on Sexual and Reproductive Health and Rights (SRHR); since 2014.</p>
+<p><b><u>Share-Net Bangladesh aims</u></b> to contribute to policy and program development in the field of SRHR. It brings together the dynamic community of practice (researchers, practitioners, government officials, legal experts) to engage with one another to find SRHR-solutions.</p>
+<p><b><u>Co-created by</u></b> RedOrange and JPG School of Public Health of BRAC University. And funded by The Royal Tropical Institute in The Netherlands.</p>
+<p><b><u>RedOrange in Share-Net Bangladesh:</u></b><br/>
+•	– Jointly responsible for the design and implementation of the project<br/>
+•	– Website (develop, design, content, maintenance)<br/>
+•	– Newsletter (content, design)<br/>
+•	– Branding (flyers, folders, etc.)<br/>
+•	– Animation films for practitioners<br/>
+•	– Workshop, seminars and meetings for practitioners</p>]]>
+</string>
+    <string name="sharenet_site">http://www.share-netbangladesh.org/</string>
+
+    <!--Documentaries-->
+
+    <string name="rickshawPlr_hdr">Documentary on the life of a rickshaw puller in Dhaka, Bangladesh</string>
+    <string name="rickshawPlr_body">Produced by RedOrange for City Folk, a program of the Netherlands National Public Television NTR</string>
+    <string name="rickshawPlr_video">https://player.vimeo.com/video/58866722</string>
+
+    <string name="ranaplaza_hdr">Documentary about the wounded victims of the collapse of the Rana Plaza building in Savar, Dhaka</string>
+    <string name="ranaplaza_body">The collapsed factory building killed over 1100 garment workers in April 2013. The collapse is considered to be the deadliest accident in the garments sector in history
+Produced for ICCO International, an NGO aiming for fair economic development</string>
+    <string name="ranaplaza_video">https://player.vimeo.com/video/69150814</string>
+
+    <string name="period_hdr">Project Description</string>
+    <string name="period_body">For RITU we produce short documentaries about menstrual hygiene management and everything that comes with it – or should come with it. Like this interview with Soma and Kamrun, two brave young girls who break the taboo.
+RITU is an awareness raising campaign on menstrual hygiene management, funded by the Embassy of the Kingdom of the Netherlands in Bangladesh and developed and implemented by RedOrange and the Netherlands based international NGO Simavi.</string>
+    <string name="period_video">https://player.vimeo.com/video/96396174</string>
+
+    <string name="rosy_hdr">Project Description</string>
+    <string name="rosy_body">Rosy was 14 when she got married. Like her, millions of Bangladeshi adolescent girls got married off before they were mentally and physically able to enter into marriage. This kind of practice leads to early pregnancy whenever their body is not developed enough for giving birth. It also increases the health risks of newborn child.
+Being unaware of such consequences, Rosy and Nilufar, these two adolescent mothers shared their story.</string>
+    <string name="rosy_video">https://player.vimeo.com/video/96396174</string>
+
+    <string name="farmer_hdr">Project Description</string>
+    <string name="farmer_body">PROOFS is organizing small holder farmers and linking them with markets to improve their production and income.
+RedOrange documented the life and situation of a farmer in the project area at the start of the project – a baseline case study.</string>
+    <string name="farmer_video">https://player.vimeo.com/video/80525994</string>
+
+    <string name="undp_hdr">Project Description</string>
+    <string name="undp_body">For UNDP we developed and produced a brief documentary about the Social Good Summit in Dhaka.
+UNDP (United Nations Development Program) is the United Nations global development network.</string>
+    <string name="undp_video">https://player.vimeo.com/video/83485355</string>
+
+    <!--Promotional Films-->
+    <string name="fao_hdr">Promotional Films</string>
+    <string name="fao_text">For FAO we developed and produced a promotional film about FAO’s unique agricultural project in the Hill Tracts: FAO’s training on the production and use of quality rice seeds, on growing vegetables and rearing poultry, gives the people of the Hill Tracts a new perspective!
+FAO is the UN agency that leads international efforts to defeat hunger, serving both developed and developing countries.</string>
+    <string name="fao_video">https://player.vimeo.com/video/97212584</string>
+
+    <string name="max_hdr">Promotional Films</string>
+    <string name="max_text">For Max Foundation we developed and produced a promotional film about Max Foundation’s child focused water, health and sanitation interventions in Bangladesh.
+The Netherlands based NGO Max Foundation believes that still too many children die from easily preventable diseases. The foundation therefore aims to save as many children’s lives in the most efficient and effective way possible</string>
+    <string name="max_video">https://player.vimeo.com/video/197383915</string>
+
+    <string name="netgerland_hdr">Promotional Films</string>
+    <string name="netherland_text">For the Embassy of the Kingdom of the Netherlands in Bangladesh we developed and produced a promotional film about the first international conference on sustainable sourcing in the garments sector of Bangladesh.</string>
+    <string name="netherland_video">https://player.vimeo.com/video/195278113</string>
+
+    <string name="wfp_hdr">Promotional Films</string>
+    <string name="wfp_text">For WFP we developed a short documentary about the scaling up rice fortification program of WFP.
+WFP (World Food Program) is the food assistance branch of the United Nations and the world’s largest humanitarian organization addressing hunger and promoting food security.</string>
+    <string name="wfp_video">https://player.vimeo.com/video/197661343</string>
+
+    <!--Animation Films-->
+    <string name="snv1_hdr">Animation Films</string>
+    <string name="snv1_text">For SNV we produced an animation about the positive effects of SNV’s urban faecal sludge management in Bangladesh: “Lets Talk Poop!”
+SNV is a non-profit, international development organisation, established in The Netherlands. SNV currently works in 38 countries in Africa, Asia, and Latin America.</string>
+    <string name="snv1_video">https://player.vimeo.com/video/113825875</string>
+
+    <string name="snv2_hdr">Animation Films</string>
+    <string name="snv2_text">To ensure sexual and reproductive health products available for Ready made garment workers, SNV has designed inclusive business model for creating evidence for garment factories.The main aim of this animation is to portray reproductive health services and products that are not available in garment factories. By building capacity among local service providers and garment factories, SNV aims to make these health services and products available for garment workers.
+Produced by RedOrange for SNV to promote Sexual and Reproductive Health and Rights through Inclusive Business Practices within Ready Made Garment (RMG) Industry in Bangladesh.</string>
+    <string name="snv2_video">https://player.vimeo.com/video/136414793</string>
+
+    <string name="giz_hdr">Animation Films</string>
+    <string name="giz_text">For GIZ we developed and produced an animated film in the framework of GIZ’s project “Fostering Traceability in the textile and Garment Supply Chain in Bangladesh”.
+GIZ (German Corporation for International Cooperation) is a company owned by the German Federal Government that specializes in international development and operates in more than 130 countries.</string>
+    <string name="giz_video"></string>
+
+    <!--TVCs-->
+
+    <string name="tvc_hdr"></string>
+    <string name="tvc1_text">For IMAGE we produced a television commercial about married children that was aired at several TV stations in Bangladesh.
+IMAGE (Initiatives for Married Adolescent Girl’s Empowerment) is an awareness raising campaign for adolescent married girls, funded by the Embassy of the Kingdom of the Netherlands in Bangladesh and developed and implemented by RedOrange and the Netherlands based Terre des Hommes and TNO.</string>
+    <string name="tvc1_video">https://player.vimeo.com/video/197383085</string>
+
+
+</resources>

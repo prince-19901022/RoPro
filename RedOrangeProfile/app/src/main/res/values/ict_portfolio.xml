@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--websites-->
+
+    <string name="publiqIct_desc">For Publiq Television Productions we developed their website. Publiq Television Productions is Bangladesh’s first TV training and production venture for youth from challenging backgrounds.</string>
+    <string name="publiqIct_site">http://publiqtelevision.com/</string>
+
+    <string name="sharenet_burundiIct_desc">For Share-Net Burundi we developed their website, the innovative Sexual and Reproductive Health and Rights knowledge platform in Burundi.</string>
+    <string name="sharenet_burundiIct_site">http://share-net-burundi.org/</string>
+
+    <string name="imageIct_desc">For IMAGE we developed the website Married Still a Child.
+IMAGE (Initiatives for Married Adolescent Girl’s Empowerment) is an awareness raising campaign for adolescent married girls, funded by the Embassy of the Kingdom of the Netherlands in Bangladesh and developed and implemented by RedOrange and the Netherlands based Terre des Hommes and TNO.</string>
+    <string name="imageIct_site">http://marriedstillachild.org/</string>
+
+    <string name="proofsIct_desc">For PROOFS we developed and maintain their website.
+PROOFS, Profitable Opportunities for Food Security, is an initiative of the international NGO ICCO and funded by the Embassy of the Kingdom of the Netherlands in Bangladesh, to improve food security and nutrition management for farmers in Bangladesh.</string>
+    <string name="proofsIct_site">http://www.proofsbangladesh.org/</string>
+
+    <!--Mobile Apps-->
+
+    <string name="appIct_desc">For IMAGE we developed a mobile app, to decrease the vulnerability of the young married girls and to increase their access to sexual reproductive health and rights information.
+IMAGE is an awareness raising campaign for adolescent married girls, funded by the Embassy of the Kingdom of the Netherlands in Bangladesh and developed and implemented by RedOrange and the Netherlands based Terre des Hommes and TNO.
+    </string>
+
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.imagequiz</string>
+
+    <!--E_Commerce-->
+
+    <string name="taichiIct_desc">For Clyppy BV we developed and implemented the Taichi At Home E-commerce platform, to sell Taichi video tutorials.
+Clyppy BV is a IT company in The Netherlands.
+    </string>
+    <string name="taichiIct_site">https://www.taichi-at-home.com/</string>
+    
+    <string name="rietveldIct_desc">For “Rietveld Bloemisten” we developed and implemented an e-commerce platform to sell flowers all over the world.
+“Rietveld Bloemisten” is a flowershop in the Netherlands that is active in all countries of the world.
+    </string>
+    <string name="rietveldIct_site">http://www.rietveldbloemisten.nl/</string>
+
+    <!--Content Management-->
+
+    <string name="jstfrmIct_desc">For Just Farming Bangladesh Ltd we developed a Content Management System through which Just Farming can upload information to their website.</string>
+    <string name="jstfrmIct_site">http://justfarmingbd.com/</string>
+
+</resources>

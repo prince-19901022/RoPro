@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_port_folio"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.redoangecom.dialog.roictintern.redorangeprofile.activities.PortFolioActivity">
+    <android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/portfolio_toolBar"
+        android:fitsSystemWindows="true"
+        android:background="@android:color/background_dark"
+        app:theme="@style/ActionBarTheme">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/back"
+            android:text="@string/circle_arrow_left"
+            android:textColor="@android:color/white"
+            android:textSize="30sp"
+            android:background="@android:color/transparent"
+            android:gravity="left|center_vertical"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/activityTitle"
+            android:textSize="@dimen/textSizeNormal"
+            android:textColor="@color/orange"
+            android:text="Film and Animation"
+            android:gravity="left"/>
+
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/portfolio_pager"
+        android:layout_below="@+id/portfolio_toolBar"
+        android:layout_marginLeft="@dimen/_5dp"
+        android:layout_marginRight="@dimen/_5dp"
+        android:layout_marginTop="@dimen/_5dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,105 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.redoangecom.dialog.roictintern.redorangeprofile.fragments.AboutUSFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/abt_bg">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/padding"
+            android:textSize="@dimen/textLarge"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_marginLeft="@dimen/_15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/who"
+            android:textSize="@dimen/textLarge"
+            android:text="@string/who"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_marginLeft="@dimen/_20dp"
+            android:paddingLeft="@dimen/_10dp"/>
+
+        <com.bluejamesbond.text.DocumentView xmlns:ext="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/whoText"
+            android:layout_marginLeft="@dimen/_20dp"
+            android:layout_marginRight="@dimen/_20dp"
+            android:layout_marginTop="@dimen/_15dp"
+            ext:documentView_antialias="true"
+            ext:documentView_cacheConfig="auto_quality"
+            ext:documentView_hyphen="-"
+            ext:documentView_lineHeightMultiplier="2.0"
+            ext:documentView_maxLines="100"
+            ext:documentView_offsetX="@dimen/_10dp"
+            ext:documentView_offsetY="@dimen/_10dp"
+            ext:documentView_insetPadding="@dimen/_10dp"
+            ext:documentView_insetPaddingBottom="@dimen/_10dp"
+            ext:documentView_insetPaddingLeft="@dimen/_10dp"
+            ext:documentView_insetPaddingRight="@dimen/_10dp"
+            ext:documentView_insetPaddingTop="@dimen/_10dp"
+            ext:documentView_reverse="false"
+            ext:documentView_textAlignment="left"
+            ext:documentView_textColor="@android:color/black"
+            ext:documentView_textFormat="formatted"
+            ext:documentView_textSize="@dimen/_17sp"
+            ext:documentView_textStyle="plain"
+            ext:documentView_textSubPixel="true"
+            ext:documentView_textTypefacePath="fonts/roboto_light.ttf"
+            ext:documentView_wordSpacingMultiplier="5.0" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/how"
+            android:text="@string/how"
+            android:textSize="@dimen/textLarge"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_marginLeft="@dimen/_20dp"
+            android:paddingLeft="@dimen/_10dp"/>
+        <com.bluejamesbond.text.DocumentView
+            xmlns:ext="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/howText"
+            android:layout_marginLeft="@dimen/_20dp"
+            android:layout_marginRight="@dimen/_20dp"
+            android:layout_marginTop="@dimen/_15dp"
+            ext:documentView_antialias="true"
+            ext:documentView_cacheConfig="auto_quality"
+            ext:documentView_hyphen="-"
+            ext:documentView_lineHeightMultiplier="2.0"
+            ext:documentView_maxLines="100"
+            ext:documentView_offsetX="@dimen/_10dp"
+            ext:documentView_offsetY="@dimen/_10dp"
+            ext:documentView_insetPadding="@dimen/_10dp"
+            ext:documentView_insetPaddingBottom="@dimen/_10dp"
+            ext:documentView_insetPaddingLeft="@dimen/_10dp"
+            ext:documentView_insetPaddingRight="@dimen/_10dp"
+            ext:documentView_insetPaddingTop="@dimen/_10dp"
+            ext:documentView_reverse="false"
+            ext:documentView_textAlignment="left"
+            ext:documentView_textColor="@android:color/black"
+            ext:documentView_textFormat="formatted"
+            ext:documentView_textSize="@dimen/_17sp"
+            ext:documentView_textStyle="plain"
+            ext:documentView_textSubPixel="true"
+            ext:documentView_textTypefacePath="fonts/roboto_light.ttf"
+            ext:documentView_wordSpacingMultiplier="5.0" />
+
+    </LinearLayout>
+
+</ScrollView>
+
+

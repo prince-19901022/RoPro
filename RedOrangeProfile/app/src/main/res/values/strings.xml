@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">RedOrange</string>
+
+    <!-- Menu Titles-->
+
+    <string name="home">Home</string>
+    <string name="about">About Us</string>
+    <string name="service">Our Services</string>
+    <string name="work">Our Work</string>
+    <string name="clients">Our Clients</string>
+    <string name="team">Our Team</string>
+    <string name="adress">Our Contact</string>
+    <!--drawer Strins-->
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!--Contact String-->
+
+    <string name="redorangePhone">tel:+88029882720</string>
+    <string name="roPhoneNetherland">tel:+31 613495163</string>
+    <string name="redorangeMail">info@redorangecom.com</string>
+    <string name="redorangeWeb">http://redorangecom.com</string>
+    <string name="redorangeWebNetherLand">wijnand@redorangecom.com</string>
+    <string name="subject">Sending Mail To RedOrange From RedOrange App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="who">WHO</string>
+    <string name="whoText"><![CDATA[<p>
+        We are an international consultancy house for media and communications, based in the Netherlands and Bangladesh.
+        As a one-stop solution house, we provide innovative communication and ICT support geared towards public, private
+        and social sector development. Our work includes specialist assistance in behavior change communication, awareness
+        raising, advocacy, visibility and branding. RedOrange is the media and communication partner of several national
+        and international organisations.
+    </p>
+    ]]></string>
+
+    <string name="how">HOW</string>
+    <string name="howText"><![CDATA[<p>RedOrange develops powerful messages for organizations, through a film,
+        a website or through the smart use of social media, both for the profit and the non-profit sector,
+        for local and international organizations. To us, communication is not just about conveying a message.
+        It is also about telling stories and sharing emotions. Whether it is a film production, a website, or
+        the smartest use of social media; we will find the right means of communication and touch your audience(s).
+    </p>
+    ]]></string>
+
+    <string name="paragraph_padding"><![CDATA[<p></p>]]></string>
+
+    <string name="service1">SPECIALIST\nCONSULTANCY</string>
+    <string name="special_consultancy">
+        Communication strategy\nMarket survey\nTraining toolkits\nEvent management\nIn-depth research\nMedia relations
+    </string>
+
+    <string name="service2">GRAPHICS DESIGN</string>
+    <string name="graphics">
+   Branding\nDesign\nProduction\nPrinting\nCreative Presentation
+</string>
+
+
+    <string name="service3">FILM AND ANIMATION</string>
+    <string name="film">
+       Promotional Film\nCorporate Film\nDocumentries\nTV Commercial\nAnimation
+    </string>
+
+    <string name="service4">INFORMATION\nTECHNOLOGY</string>
+
+    <string name="it">
+        Responsive Website\nMobile Apps\nKnowledge Platform\nE-commerce\nContent Management
+    </string>
+
+
+    <string name="myFont">fonts/roboto_light.ttf</string>
+    <string name="grid_font">fonts/roboto_light.ttf</string>
+
+    <string name="prjDsc">Project Description</string>
+
+    <!--Contact String-->
+
+    <string name="cntry1">Bangladesh</string>
+    <string name="house1">House 75 (Ground Floor)</string>
+    <string name="street1">Road 3, Block F Banani</string>
+    <string name="code1">Dhaka 1213, Bangladesh</string>
+    <string name="email1">info@redorangecom.com</string>
+    <string name="phn1">+88 029882720</string>
+
+
+    <string name="cntry2">Netherlands</string>
+    <string name="house2">Wezenland 7</string>
+    <string name="street2">7415 HP Deventer, Netherlands</string>
+    <string name="code2">info@redorangecom.com</string>
+    <string name="email2">wijnand@redorangecom.com</string>
+    <string name="phn2">+31 613495163</string>
+
+    <string name="house_icon">&#xf015;</string>
+    <string name="email_icon">&#xf0e0;</string>
+    <string name="phn_icon">&#xf098;</string>
+    <string name="circle_arrow_left">&#xf0a8;</string>
+    <string name="spinner_icon">&#xf110;</string>
+    <string name="film_icon">&#xf008;</string>
+    <string name="flame_icon">&#xf06d;</string>
+    <string name="it_icon">&#xf129;</string>
+
+</resources>
